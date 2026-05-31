@@ -1,0 +1,6 @@
+{
+  "name": "AI Web Design Portfolio",
+  "description": "Una landing page de portafolio premium, oscura y de estilo editorial para un diseñador web especializado en Inteligencia Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
